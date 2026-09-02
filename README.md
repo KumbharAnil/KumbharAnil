@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# 🧬 ANIL BASAVARAJ KUMBHAR
+# 🧬 ANIL KUMBHAR
 
-### Computational Drug Discovery • QSAR/q-RASAR • Structural Bioinformatics
+### Computational Drug Discovery • QSAR/q-RASAR • Bioinformatics
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=800&lines=Computational+Drug+Discovery;QSAR+%7C+q-RASAR+%7C+Read-Across;Molecular+Docking+%7C+Virtual+Screening;Molecular+Dynamics+%7C+ADMET;Bioinformatics+%7C+Data+Science;Turning+Chemical+Data+into+Drug+Discovery+Insights" />
 
